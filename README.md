@@ -24,6 +24,6 @@ Even small differences in investment fees can have a substantial impact on long-
 <img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/d3b5261b-0362-4405-aa85-2a2bdf5b8e91" />
 <img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/07c16643-6304-45e0-8817-88c99a5d61ee" />
 ## Future Improvements
-Add monthly contributions (realistic investing scenario)
-Incorporate real historical market data
-Build an interactive dashboard (Tablaeu/Power BI)
+- Add monthly contributions (realistic investing scenario)
+- Incorporate real historical market data
+- Build an interactive dashboard (Tablaeu/Power BI)
