@@ -15,6 +15,8 @@ This project analyses how investment fees affect long-term portfolio growth by c
 ## Interpretation
 - Although the difference in annual returns is relatively small (1.8%), the impact compounds over time, leading to significantly different outcomes.
 - This demonstrates how fees reduce not only returns, but also the compounding potential of investments, resulting in lower long-term wealth.
+## Tableau Dashboard
+- https://public.tableau.com/app/profile/rachel.sinclair/viz/InvestmentFeeImpactAnalysis/Dashboard1
 ## Tools Used
 - Excel
 - Python (pandas, matplotlib)
